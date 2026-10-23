@@ -8,7 +8,7 @@ The created schematic was based on the physical layout of a raw PCB with known c
 
 Note that the address lines A0 to A14 do not appear to route as expected but agree with the PCB tracking.
 
-![image](./Issue1 32K RAM.png "Issue1 32K RAM")
+![image](./Issue1_32K_RAM.png "Issue1 32K RAM")
 
 I would not use these gerbers to manufacture a PCB without a lot more checking.
 
