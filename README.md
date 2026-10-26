@@ -7,7 +7,7 @@ If it went between two traces it still goes between the same two traces.
 
 The ZX Spectrum Issue 1 32K RAM PCB used has an MFG date of 1982 and has a silkscreen FAB revision of SRC091, a topside FAB revision of SRC080 A and a solder side FAB revision of SRC097 B.
 
-The created schematic was based on the physical layout of a raw PCB with known components. The resistor values were taken from a image of a populated PCB but it was impossible to determine the values of the capacitors used so I used the values from a ZX Spectrum Issue 2 schematic 32K Expansion for the smoothing caps (C3-C10). The values of C1 and C2 are also the values used in in the Issue 2 schematic.
+The created schematic was based on the physical layout of a raw PCB with known components. The resistor values were taken from a image of a populated PCB but it was impossible to determine the values of the capacitors used so I used the values from a ZX Spectrum Issue 2 schematic 32K Expansion for the smoothing caps (C3-C10). The values of C1 and C2 are also the values used in the Issue 2 schematic.
 
 Note that the address lines A0 to A14 through the LS157 to the RAM chips do not appear to route as expected but agree with the PCB tracking. 
 
